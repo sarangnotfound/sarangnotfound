@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey, I'm a developer 👋
 
-<!--
-**sarangnotfound/sarangnotfound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Not cool, just looks cool. Building things anyway. 😎
 
-Here are some ideas to get you started:
+I'm a curious developer who loves experimenting with code, AI, and creative ideas. I enjoy turning random ideas into real projects, breaking things, fixing them, and learning something new along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Exploring **AI, LLMs & AI agents**
+- 💻 Building **web apps, UI experiments & creative tools**
+- 🎨 Interested in **modern UI/UX and interactive experiences**
+- 🎸 Outside coding: music, guitar, and more experiments
+- 🌱 Learning something new with every project
+
+---
+
+### 🛠️ Tech I'm Exploring
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🚀 What I'm Working On
+
+- 🧠 Experimenting with different AI models and APIs
+- 🎹 Creating interactive music and browser-based tools
+- ✨ Exploring creative interfaces, animations, and useful web apps
+
+### 💭 Developer's Thought
+
+> Great ideas start as random thoughts. Build them anyway.
+
+---
+
+⭐ **Thanks for visiting my profile!** Feel free to explore my repositories and follow along as I learn, build, and experiment.
