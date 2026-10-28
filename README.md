@@ -9,13 +9,9 @@ I'm a curious developer who loves experimenting with code, AI, and creative idea
 - 🎨 Interested in **modern UI/UX and interactive experiences**
 - 🎸 Outside coding: music, guitar, and more experiments
 - 🌱 Learning something new with every project
-
----
-
 ### 🛠️ Tech I'm Exploring
 
 **💻 Development**
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -24,13 +20,11 @@ I'm a curious developer who loves experimenting with code, AI, and creative idea
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 **🤖 AI & Large Language Models**
-
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF6F61?style=for-the-badge&logo=probot&logoColor=white)
 ### 🚀 What I'm Working On
 
 - 🧠 Experimenting with different AI models and APIs
